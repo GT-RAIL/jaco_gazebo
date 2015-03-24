@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package>
   <name>jaco_gazebo</name>
-  <version>0.0.0</version>
+  <version>0.0.1</version>
   <description>The jaco_gazebo package</description>
 
   <author email="alex@thoriumrobotics.com">Alex Henning</author>
