@@ -12,20 +12,14 @@
   <license>BSD</license>
 
   <url type="website">http://ros.org/wiki/jaco_gazebo</url>
-  <url type="bugtracker">https://github.com/RIVeR-Lab/wpi_jaco/issues</url>
-  <url type="repository">https://github.com/RIVeR-Lab/wpi_jaco</url>
+  <url type="bugtracker">https://github.com/WPI-RAIL/jaco_gazebo/issues</url>
+  <url type="repository">https://github.com/WPI-RAIL/jaco_gazebo</url>
 
   <buildtool_depend>catkin</buildtool_depend>
 
-  <build_depend>roscpp</build_depend>
-  <build_depend>rospy</build_depend>
-  <build_depend>std_msgs</build_depend>
-
   <run_depend>controller_manager</run_depend>
   <run_depend>gazebo_ros</run_depend>
+  <run_depend>xacro</run_depend>
+  <run_depend>jaco_description</run_depend>
   <run_depend>robot_state_publisher</run_depend>
-  <run_depend>roscpp</run_depend>
-  <run_depend>rospy</run_depend>
-  <run_depend>std_msgs</run_depend>
-
 </package>
