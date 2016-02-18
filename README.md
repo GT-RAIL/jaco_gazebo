@@ -1,4 +1,4 @@
-jaco_gazebo  [![Build Status](https://api.travis-ci.org/WPI-RAIL/jaco_gazebo.png)](https://travis-ci.org/WPI-RAIL/jaco_gazebo)
+jaco_gazebo  [![Build Status](https://api.travis-ci.org/GT-RAIL/jaco_gazebo.png)](https://travis-ci.org/GT-RAIL/jaco_gazebo)
 ===========
 
 #### Gazebo Support for the Kinova JACO Arm
