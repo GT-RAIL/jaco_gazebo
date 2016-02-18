@@ -6,14 +6,14 @@
 
   <author email="alex@thoriumrobotics.com">Alex Henning</author>
   <maintainer email="alex@thoriumrobotics.com">Alex Henning</maintainer>
-  <maintainer email="davidkent@wpi.edu">David Kent</maintainer>
+  <maintainer email="dekent@gatech.edu">David Kent</maintainer>
   <maintainer email="rctoris@wpi.edu">Russell Toris</maintainer>
 
   <license>BSD</license>
 
   <url type="website">http://ros.org/wiki/jaco_gazebo</url>
-  <url type="bugtracker">https://github.com/WPI-RAIL/jaco_gazebo/issues</url>
-  <url type="repository">https://github.com/WPI-RAIL/jaco_gazebo</url>
+  <url type="bugtracker">https://github.com/GT-RAIL/jaco_gazebo/issues</url>
+  <url type="repository">https://github.com/GT-RAIL/jaco_gazebo</url>
 
   <buildtool_depend>catkin</buildtool_depend>
 
